@@ -855,8 +855,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.10480879, y: 0.0699999}
   m_AnchorMax: {x: 0.8951912, y: 0.93000007}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -15, y: 13}
+  m_SizeDelta: {x: -68.1183, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &247671644
 MonoBehaviour:
@@ -878,7 +878,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: CLEAR SKY ADVENTURES
+  m_text: Bonanza Candy Coast
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7639a347c6b4f2747a0a5f74bd169f90, type: 2}
   m_sharedMaterial: {fileID: 7031820194842720748, guid: 7639a347c6b4f2747a0a5f74bd169f90, type: 2}
@@ -3298,7 +3298,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 22.9}
   m_AnchorMin: {x: 0.034702092, y: 0.754}
   m_AnchorMax: {x: 0.279, y: 0.88935876}
-  m_AnchoredPosition: {x: 7.999878, y: -18}
+  m_AnchoredPosition: {x: 7.999054, y: -18}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &872408818
@@ -5797,7 +5797,7 @@ RectTransform:
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &1837101648
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5811,7 +5811,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 4
-  m_AspectRatio: 0.5629883
+  m_AspectRatio: 0.4619141
 --- !u!114 &1837101649
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5825,7 +5825,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.735849, g: 0.735849, b: 0.735849, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6580,7 +6580,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_AspectMode: 4
-  m_AspectRatio: 0.5644531
+  m_AspectRatio: 0.46191406
 --- !u!114 &2082532586
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6594,7 +6594,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.735849, g: 0.735849, b: 0.735849, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1

@@ -16,7 +16,7 @@ public class TNGClear : MonoBehaviour
 		gameObject.SetActive(true);
 		TNGCompleted = tngCompletedAction;
 		UserTouch.onFingerDown += SpaceMagic;
-		TNGTips.text = "WELCOME TO CLEAR SKY ADVENTURES!";
+		TNGTips.text = "WELCOME TO Bonanza Candy Coast!";
 	}
 
 	private void SpaceMagic(UserFinger finger)
